@@ -3,7 +3,7 @@
 # Author: Carmelo Gomez-Martinez
 # Last update: 21/03/2024
 # contact: carmelogzmz@gmail.com
-# github: https://github.com/carmelogzmz/betalinkINIS
+# github: https://github.com/carmelogzmz/betalinkINIS/
 
 # This function "betalinkINIS" is a modification of betalinkr function from
 # Frund (Frund 2021; included in bipartite package, Dormann 2021), to include
